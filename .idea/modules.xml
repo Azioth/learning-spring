@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/learning-spring.iml" filepath="$PROJECT_DIR$/learning-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-sample/spring-sample.iml" filepath="$PROJECT_DIR$/spring-sample/spring-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-sample-xml/spring-sample-xml.iml" filepath="$PROJECT_DIR$/spring-sample-xml/spring-sample-xml.iml" />
     </modules>
   </component>
 </project>
