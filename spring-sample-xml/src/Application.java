@@ -11,7 +11,7 @@ public class Application {
     public static void main(String[] args) {
         //CustomerService service = new CustomerServiceImpl();
 
-        ApplicationContext applicationContext = new ClassPathXmlApplicationContext("spring-sample-xml/applicationContext.xml");
+        ApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
 
         CustomerService service = applicationContext.getBean("customerService", CustomerService.class);
 
