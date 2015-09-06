@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/libsXML"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/libsBase"/>
 	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="libs/spring-beans-4.2.1.RELEASE.jar"/>
 	<classpathentry kind="lib" path="libs/spring-context-4.2.1.RELEASE.jar"/>
